@@ -4,7 +4,7 @@ A modern and responsive cooking website built to showcase **Iksha Cooking's** Yo
 
 ## 🌐 Live Website
 
-🔗 https://vedanshkhare1.github.io/Website/
+🔗 https://vedanshkhare1.github.io/Ikshas-Cooking-Corner/
 
 ## ✨ Features
 
